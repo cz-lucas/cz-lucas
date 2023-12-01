@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+- 🌱 I’m currently learning swift/switui and unity
+- Languages and frameworks that I primarly use: C#, C++/Arduino, JS/TS, Vue, Bulma
+- 🌍 I'm from germany
 <!--
 **10k-resistor/10k-resistor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
