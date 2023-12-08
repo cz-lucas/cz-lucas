@@ -1,6 +1,7 @@
 ### Hi there 👋
 - 🌱 I’m currently learning swift/switui and unity
 - Languages and frameworks that I primarly use: C#, C++/Arduino, JS/TS, Vue, Bulma
+- IDEs that I use: VSCode, Xcode
 - 🌍 I'm from germany
 - ☕️ Likes coffee
 <!--
