@@ -1,5 +1,5 @@
 ## Hi there 👋
-- 🌱 I’m currently learning golang
+- 🌱 I’m currently learning Kubernetes and DevOps
 - Languages and frameworks that I primarly use: C#, C++/Arduino, JS/TS, Vue, Bulma
 - IDEs that I use: VSCode, Xcode
 - 🌍 I'm from germany
@@ -11,6 +11,7 @@
 - https://github.com/imbus/quizdown-extended Migrating that quiz-library from svelte3 to svelte5 and to support shiki as a syntax highlighter
 - https://github.com/imbus/robotframework-RFCP-syllabus Extending it with a quiz-function (e.g for example questions) including a store to save the results in the localstorage
 - https://github.com/cz-lucas/vscode-devcontainers-workshop an introduction into VSCode-Devcontainers
+
 <!--
 **10k-resistor/10k-resistor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
